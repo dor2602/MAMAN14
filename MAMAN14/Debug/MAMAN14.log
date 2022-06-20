@@ -1,0 +1,12 @@
+﻿  EfficiencyChecks.c
+C:\Users\DOR IDAN\Desktop\ma\MAMAN14\MAMAN14\EfficiencyChecks.c(66,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\DOR IDAN\Desktop\ma\MAMAN14\MAMAN14\EfficiencyChecks.c(80,36): warning C4013: 'NumberOfDiffrentElements' undefined; assuming extern returning int
+C:\Users\DOR IDAN\Desktop\ma\MAMAN14\MAMAN14\EfficiencyChecks.c(80,47): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\DOR IDAN\Desktop\ma\MAMAN14\MAMAN14\EfficiencyChecks.c(81,26): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+C:\Users\DOR IDAN\Desktop\ma\MAMAN14\MAMAN14\EfficiencyChecks.c(81,21): warning C4024: 'PrintFunction': different types for formal and actual parameter 2
+C:\Users\DOR IDAN\Desktop\ma\MAMAN14\MAMAN14\EfficiencyChecks.c(102,54): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\DOR IDAN\Desktop\ma\MAMAN14\MAMAN14\EfficiencyChecks.c(103,26): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+C:\Users\DOR IDAN\Desktop\ma\MAMAN14\MAMAN14\EfficiencyChecks.c(103,21): warning C4024: 'PrintFunction': different types for formal and actual parameter 2
+C:\Users\DOR IDAN\Desktop\ma\MAMAN14\MAMAN14\EfficiencyChecks.c(190,7): warning C4033: 'InsertWithoutDuplicates' must return a value
+C:\Users\DOR IDAN\Desktop\ma\MAMAN14\MAMAN14\EfficiencyChecks.c(193): warning C4715: 'InsertWithoutDuplicates': not all control paths return a value
+  MAMAN14.vcxproj -> C:\Users\DOR IDAN\Desktop\ma\MAMAN14\Debug\MAMAN14.exe
