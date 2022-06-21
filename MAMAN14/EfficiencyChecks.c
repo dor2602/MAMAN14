@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include<conio.h>
+#include <conio.h>
 #include <time.h>
 #include <ctype.h>
 #define N 100 // N is the table range
