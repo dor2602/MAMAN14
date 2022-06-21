@@ -126,7 +126,6 @@ void InsertionSort(int arr[], int n)
 	{
 		key = arr[i];
 		j = i - 1;
-
 		/* Move elements of arr[0..i-1], that are
 		greater than key, to one position ahead
 		of their current position */
@@ -193,7 +192,6 @@ struct node* InsertWithoutDuplicates(struct node* node, int key, int* count, int
 }
 void Merge(int arr[], int l, int m, int r, long int* x, long int* y)
 {
-
 	int i, j, k, a = 0, b = 0;
 	int n1 = m - l + 1;
 	int n2 = r - m;
