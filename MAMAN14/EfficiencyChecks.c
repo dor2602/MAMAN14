@@ -26,12 +26,12 @@ struct node* NewNode(int item);
 Node* Insert(Node*, int, int);
 Node* FillTable(Node*, int*, int, int);
 void  PrintFunction(int, int, long int, long int);
-void ContingSortArray(int a[], int);
-void InsertionSort(int a[], int);
-void ErrorFunction();
-void Merge(int arr[], int, int, int, long int*, long int*);
-void MergeSort(int arr[], int, int, long int*, long int*);
+void ContingSortArray(int*, int);
+void InsertionSort(int*, int);
+void Merge(int*, int, int, int, long int*, long int*);
+void MergeSort(int*, int, int, long int*, long int*);
 void FreeTable(Node**);
+void ErrorFunction();
 int CheckQentityOfDiffrentElemInList(Node*, int);
 
 /*Main function*/
